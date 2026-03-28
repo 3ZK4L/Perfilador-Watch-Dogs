@@ -38,6 +38,14 @@ Projeto pessoal desenvolvido durante o curso de **Análise e Desenvolvimento de 
 
 Requisito: Java 8 ou superior.
 
+## 📸 Screenshots
+
+![Tela inicial](screenshots/Perfilador%20-%20Etapa%201.png)
+*Foto monstrando o código iniciando a varredura em uma rede particular*
+
+![Scan da rede](screenshots/Perfilador%20-%20Etapa%202.png)
+*Foto mostrando dois dispositivos identificados na rede e finalização do processo*
+
 ⚠️
 Esta ferramenta é exclusivamente educacional.
 Use apenas em sua própria rede ou em ambientes de teste com autorização.
