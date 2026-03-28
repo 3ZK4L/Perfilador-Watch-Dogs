@@ -38,12 +38,9 @@ Projeto pessoal desenvolvido durante o curso de **Análise e Desenvolvimento de 
 
 Requisito: Java 8 ou superior.
 
-⚠️ Uso Ético
+⚠️
 Esta ferramenta é exclusivamente educacional.
 Use apenas em sua própria rede ou em ambientes de teste com autorização.
-
-📸 Screenshots
-(Adicione as imagens aqui depois de tirar prints)
 
 🛠️ Tecnologias utilizadas
 
