@@ -31,19 +31,16 @@ Projeto pessoal desenvolvido durante o curso de **Análise e Desenvolvimento de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/watchdogs-profiler-java.git
+   git clone https://github.com/3ZK4L/Perfilador-Watch-Dogs.git
 2. Abra o projeto em sua IDE (no meu caso foi o IntelliJ).
 3. Execute a classe src/NetworkProfiler.java.
 4. Informe o prefixo da sua rede (exemplo: 192.168.1).
 
 Requisito: Java 8 ou superior.
 
-⚠️ Uso Ético
+⚠️
 Esta ferramenta é exclusivamente educacional.
 Use apenas em sua própria rede ou em ambientes de teste com autorização.
-
-📸 Screenshots
-(Adicione as imagens aqui depois de tirar prints)
 
 🛠️ Tecnologias utilizadas
 
