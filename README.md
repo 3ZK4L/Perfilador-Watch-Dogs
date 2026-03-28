@@ -41,9 +41,11 @@ Requisito: Java 8 ou superior.
 ## 📸 Screenshots
 
 ![Tela inicial](screenshots/Perfilador%20-%20Etapa%201.png)
+
 *Foto monstrando o código iniciando a varredura em uma rede particular*
 
 ![Scan da rede](screenshots/Perfilador%20-%20Etapa%202.png)
+
 *Foto mostrando dois dispositivos identificados na rede e finalização do processo*
 
 ⚠️
